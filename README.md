@@ -2,7 +2,6 @@
 
 Welcome to the Simple Drone Shop E-Commerce Website! This is a basic web application built using HTML, CSS, and JavaScript that allows users to browse and purchase drones online. Whether you're a drone enthusiast or a beginner, this website provides an easy way to explore and buy a variety of drones.
 
-![Simple Drone Shop](screenshot.png)
 
 ## Features
 
