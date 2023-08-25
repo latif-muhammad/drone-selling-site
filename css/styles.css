@@ -1,0 +1,106 @@
+/* MUHAMMAD LATIF 
+NOOR COLONY JUTIAL GILGIT
+A WEB DEVEOPER*/
+body{
+	margin:0;
+	font-family: 'Roboto Light' , sans-serif;
+	font-size: 0.8rem;
+	letter-spacing: 1.5px;
+	overflow-x:hidden;
+	background-color: #eee;
+}
+/* global style==>starts */
+:root{	
+	--primary:#4fc3f7;
+	--primary-darken:#22a7f0;
+	--primary-lighten:#22a7f0;
+}
+ul{
+  list-style-type: none;
+  padding: inherit;
+}
+button{
+  border: none;
+  padding: none;
+}
+label{
+	font-size: 0.9rem;
+}
+input:focus{
+	box-shadow: none!important;
+}
+hr{
+	width: 6rem;
+	height: 0.06rem;
+	background-color: var(--primary);
+}
+img:hover{	
+	opacity: 0.8;
+	transition: ease-in-out;
+}
+.overlay{
+  background-color: rgba(0,0,0,0.4);
+}
+.overlay-dark{
+  background-color: rgba(0,0,0,0.6);
+}
+.bg-orvblue{
+	background-color: var(--primary-darken)!important;
+}
+.bg-lightblue{
+	background-color: var(--primary)!important;
+}
+.shadow:hover{		
+	box-shadow: 4px 2px 2px 0px grey;
+	transition: all 0.5s ease-in-out;
+		-webkit-transition: all 0.7s ease-in-out;
+		-moz-transition: all 0.7s ease-in-out;
+		-ms-transition: all 0.7s ease-in-out;
+		-o-transition: all 0.7s ease-in-out;
+}
+.shadow{
+	box-shadow: 0px 4px 5px -1px grey;
+	transition: all 0.5s ease-in-out;
+		-webkit-transition: all 0.7s ease-in-out;
+		-moz-transition: all 0.7s ease-in-out;
+		-ms-transition: all 0.7s ease-in-out;
+		-o-transition: all 0.7s ease-in-out;
+}
+
+/* global style */
+/* header style starts */
+#header{
+	background: url(../images/2.jpg) center center fixed;
+	height: 100%;
+}
+#header .navbar .nav-elements ul li a{
+	padding-right:0.3rem; 
+}
+#header .main-heading .heading{
+	padding-top: 20rem;
+}
+#header .main-heading{
+	padding-bottom: 19.7rem!important;
+}
+#header .main-heading h3{
+	font-size: 4rem;
+}
+
+/* header style ends */
+/* section hire style starts */
+#hire-pilot .container .row .card{	
+	box-shadow:0px 2px 12px 6px grey;
+	transition: all 0.5s ease-in-out;
+		-webkit-transition: all 0.7s ease-in-out;
+		-moz-transition: all 0.7s ease-in-out;
+		-ms-transition: all 0.7s ease-in-out;
+		-o-transition: all 0.7s ease-in-out;
+	
+
+}	
+/* section hire style ends */
+/* section rent style starts */
+#rent{
+	background-color: white;
+}
+/* section rent style ends */
