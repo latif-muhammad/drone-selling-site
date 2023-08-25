@@ -19,3 +19,10 @@ Follow these steps to get the Simple Drone Shop E-Commerce Website up and runnin
 
    ```bash
    https://github.com/latif-muhammad/drone-selling-site
+
+
+# Open in a Browser
+Simply open the index.html file in a web browser of your choice to access the website.
+
+# Explore the Website
+Browse through the product catalog and test out the various features of the website.
